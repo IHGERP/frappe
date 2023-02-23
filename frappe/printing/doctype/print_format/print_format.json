@@ -10,6 +10,7 @@
   "module",
   "default_print_language",
   "column_break_3",
+  "company",
   "standard",
   "custom_format",
   "disabled",
@@ -205,13 +206,19 @@
    "fieldname": "absolute_value",
    "fieldtype": "Check",
    "label": "Show Absolute Values"
+  },
+  {
+   "fieldname": "company",
+   "fieldtype": "Link",
+   "label": "Company",
+   "options": "Company"
   }
  ],
  "icon": "fa fa-print",
  "idx": 1,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-03-01 15:25:46.578863",
+ "modified": "2022-07-12 16:31:19.773773",
  "modified_by": "Administrator",
  "module": "Printing",
  "name": "Print Format",

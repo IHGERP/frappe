@@ -1,0 +1,37 @@
+{
+ "based_on": "",
+ "chart_name": "Late Emp Line",
+ "chart_type": "Report",
+ "creation": "2022-01-21 13:59:41.897790",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "document_type": "",
+ "dynamic_filters_json": "{\"checkin_date\":\"Today\"}",
+ "filters_json": "{\"company\":\"IHG INDUSTRY LLC\"}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "modified": "2022-01-21 13:59:52.107262",
+ "modified_by": "Administrator",
+ "module": "Custom",
+ "name": "Late Emp Line",
+ "number_of_groups": 0,
+ "owner": "Administrator",
+ "parent_document_type": "",
+ "report_name": "Late Checkin Report",
+ "source": "",
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Line",
+ "use_report_chart": 0,
+ "value_based_on": "",
+ "x_field": "employee_name",
+ "y_axis": [
+  {
+   "color": "#e84d4d",
+   "y_field": "late_min"
+  }
+ ]
+}

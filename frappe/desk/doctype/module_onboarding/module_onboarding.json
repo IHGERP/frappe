@@ -62,8 +62,7 @@
    "default": "0",
    "fieldname": "is_complete",
    "fieldtype": "Check",
-   "label": "Is Complete",
-   "read_only": 1
+   "label": "Is Complete"
   },
   {
    "fieldname": "steps",
@@ -82,7 +81,7 @@
   }
  ],
  "links": [],
- "modified": "2020-06-08 15:36:04.701049",
+ "modified": "2022-01-28 14:15:02.235380",
  "modified_by": "Administrator",
  "module": "Desk",
  "name": "Module Onboarding",

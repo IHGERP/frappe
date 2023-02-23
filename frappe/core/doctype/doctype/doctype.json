@@ -189,6 +189,7 @@
    "oldfieldtype": "Section Break"
   },
   {
+   "allow_bulk_edit": 1,
    "fieldname": "fields",
    "fieldtype": "Table",
    "label": "Fields",
@@ -628,7 +629,7 @@
    "link_fieldname": "reference_doctype"
   }
  ],
- "modified": "2021-11-01 15:26:19.077164",
+ "modified": "2022-06-16 08:29:19.931292",
  "modified_by": "Administrator",
  "module": "Core",
  "name": "DocType",
